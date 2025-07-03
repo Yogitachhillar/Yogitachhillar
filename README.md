@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yogitachhillar
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Data Analatics. 
 - 🌱 I’m currently learning HTML language 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me yogitachillar84@gmail.com 
 - 😄 Pronouns: always happy to see u my world 
 - ⚡ Fun fact: Just be yourself everyoone in world will not here to help you, beleive it and move on .
