@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogitachhillar
-- 👀 I’m interested in Data Analatics. 
+- 👀 I’m interested in Data Analytics. 
 - 🌱 I’m currently learning Python language 
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me yogitachillar84@gmail.com 
